@@ -1,0 +1,6 @@
+{
+  "name": "CYBER COP-404 Code Detector",
+  "description": "Premium real-time unique code detector and database manager for CYBER COP-404.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
